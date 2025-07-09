@@ -13,3 +13,4 @@ matplotlib
 langdetect
 python-docx
 google-api-python-client
+scikit-learn
