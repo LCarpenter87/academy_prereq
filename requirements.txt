@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+gspread
+oauth2client
+azure_search
+azure_search_documents
+azure_core
+pymupdf
+openai
+tiktoken
+wordcloud 
+matplotlib 
+langdetect
+python-docx
+googleapiclient
