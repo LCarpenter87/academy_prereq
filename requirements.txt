@@ -9,7 +9,7 @@ pymupdf
 openai
 tiktoken
 wordcloud 
-matplotlib 
+matplotlib --prefer-binary
 langdetect
 python-docx
 google-api-python-client
